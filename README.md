@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-andersonjoseph/README.md
-
 ✌ My name is Anderson.  
 *The guy who NEVER broke production (like, seriously, never).*
 
